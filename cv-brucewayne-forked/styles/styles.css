@@ -1,0 +1,55 @@
+body {
+  background-color: #e5e5e5;
+}
+
+header {
+  background-color: #c4c4c4;
+  color: #005677;
+}
+.header-batman {
+  text-align: center;
+  background-color: #e5e5e5;
+}
+
+h1 {
+  text-align: center;
+  color: #005677;
+}
+
+h2 {
+  color: #005677;
+  background-color: #c4c4c4;
+  text-align: left;
+}
+
+ul.academica-laboral {
+  list-style: none;
+}
+
+.negrita {
+  font-weight: bold;
+}
+
+.negrita-personal {
+  font-weight: bold;
+  font-style: italic;
+}
+
+footer {
+  background-color: #005677;
+  color: white;
+  text-align: center;
+  height: 40px;
+}
+
+.iconos span {
+  text-align: center;
+  margin-right: 40px;
+  padding: 10px;
+  margin-top: 10%;
+}
+
+.iconos img {
+  text-align: center;
+  margin-top: 10px;
+}
